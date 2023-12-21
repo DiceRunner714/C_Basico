@@ -17,7 +17,7 @@ int main()
 
     const float Media = (Nota1 + Nota2 + Nota3)/3;
 
-    printf("A sua media é: %.2f", Media);
+    printf("A sua media é: %.2f\n", Media);
 
     return 0;
 }
