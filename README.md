@@ -18,3 +18,8 @@
 - Estruturas de repetição (laços);
 - Lógica de programação;
 - Entre outros.
+
+#### Observações:
+- Pode haver erros;
+- Os códigos ainda serão otimizados e comentados;
+- Os enunciados dos exercícios ainda não estão disponíveis;
