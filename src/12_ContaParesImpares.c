@@ -10,7 +10,6 @@ int main()
     {
         printf("Digite '0' se tiver acabado, caso contrario, digite outro numero\n");
         scanf("%d", &num);
-        fflush(stdin);
         if (num != 0){
             if(num %2 == 0) {
                 pares ++;

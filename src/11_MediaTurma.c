@@ -12,11 +12,9 @@ int main()
     {
         printf("Digite a proxima Nota\n");
         scanf("%f", &nota);
-        fflush(stdin);
 
         printf("Digite 'q' se tiver acabado, caso contrario, digite outra letra\n");
         scanf("%c", &q);
-        fflush(stdin);
 
         soma_das_notas += nota;
         alunos++;
